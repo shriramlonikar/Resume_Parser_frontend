@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import GetResume from '../components/getResume';
+import GetResume from '../components/GetResume';
 import TextArea from '../components/TextArea';
 
 const Home = () => {
